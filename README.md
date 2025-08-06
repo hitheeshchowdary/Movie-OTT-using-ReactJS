@@ -1,4 +1,4 @@
-#Ater importing these files , in the terminal run this command: npm install and then npm start
+#After importing these files , in the terminal run these commands: npm install and then npm start
 
 # Getting Started with Create React App
 
